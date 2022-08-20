@@ -5,8 +5,8 @@ The script will generate Franken Address associate with Pledge Stake key & contr
 
 ## INSTRUCTIONS
 
-1) Enter cardano address associated with stake key
-2) Enter cardano address associated with payment key
+1) Enter cardano address that will control the **stake**
+2) Enter cardano address that will control the **funds**
 3) The script will generate Franken Address - Funds controlled by the payment key & Stake controlled by the stake key
 
 ![image](https://user-images.githubusercontent.com/7429306/185767888-acba3951-b134-4908-9122-017a5a1c45bf.png)
